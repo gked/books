@@ -5,7 +5,7 @@
 
 ### 2021
 1. Nik Bhatia - Layered Money (From GOLD and DOLLARS to BITCOIN and CENTRAL BANKS DIGITAL CURRENCIES)
-2. Вит Ценев - токолы колдуна Стоменова
+2. Вит Ценев - протоколы колдуна Стоменова
 3. Владимир Серкин -  Большая книга Шамана
 4. Михаил Веллер - Технология рассказа
 5. Richard P. Feynman - The Meaning og It All
